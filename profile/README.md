@@ -9,12 +9,16 @@ At Niftency, we craft solutions to simplify application deployment, optimize clo
 ### **1. Oikos**  
 **Deploy Anything! Anytime Anywhere!**  
 Oikos enables seamless workload deployment across distributed computing resources over multiple infrastructures, environments, and geographies.
+🔗 [Learn More About Oikos](https://nife.io/oikos) 
+🔗 [Oikos Documentation](#)  
 
 ---
 
 ### **2. Platus**  
 **Navigating Your Deployment Budgets with Precision**  
 Platus offers in-depth insights into cloud infrastructure, empowering businesses to manage costs and optimize their resources effectively.
+🔗 [Learn More About Platus](https://nife.io/platus)  
+
 
 ---
 
