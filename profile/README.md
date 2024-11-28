@@ -2,7 +2,7 @@
 
 At Niftency, we craft solutions to simplify application deployment, optimize cloud infrastructure, and harness the power of the edge economy. From innovative products to open-source tools, we empower developers and enterprises to focus on what truly matters—building impactful applications.
 
----
+
 
 ## 🌟 Our Products
 
@@ -12,7 +12,7 @@ Oikos enables seamless workload deployment across distributed computing resource
 🔗 [Learn More About Oikos](https://nife.io/oikos) 
 🔗 [Oikos Documentation](#)  
 
----
+
 
 ### **2. Platus**  
 **Navigating Your Deployment Budgets with Precision**  
@@ -20,19 +20,19 @@ Platus offers in-depth insights into cloud infrastructure, empowering businesses
 🔗 [Learn More About Platus](https://nife.io/platus)  
 
 
----
+
 
 ### **3. SyncDrive**  
 **Syncing Innovation**  
 SyncDrive allows rapid synchronization between local and cloud environments, ensuring efficiency and data consistency.
 
----
+
 
 ### **4. Zeke**  
 **The Future of Connectivity**  
 Standalone tools that extend the capabilities of Oikos, designed to enhance application performance and scalability.
 
----
+
 
 ### **5. Nyx 6G**  
 **Next-Gen Communication**  
@@ -58,7 +58,6 @@ Sync Kai is a user-friendly tool that automatically syncs files between your loc
 
 🔗 [Explore Sync Kai on GitHub](https://github.com/nifetency/Synckai)
 
----
 
 ### **2. Nife Actions**  
 **CI/CD Tool**
