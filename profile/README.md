@@ -1,4 +1,4 @@
-# Welcome to Niftency 👋
+# Welcome to Nifetency 👋
 
 At Niftency, we craft solutions to simplify application deployment, optimize cloud infrastructure, and harness the power of the edge economy. From innovative products to open-source tools, we empower developers and enterprises to focus on what truly matters—building impactful applications.
 
