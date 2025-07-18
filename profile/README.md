@@ -6,7 +6,7 @@ At Niftency, we craft solutions to simplify application deployment, optimize clo
 
 ## 🌟 Our Products
 
-### **1. Oikos**  
+### **1. NIFE DEPLOY**  
 **Deploy Anything! Anytime Anywhere!**  
 Oikos enables seamless workload deployment across distributed computing resources over multiple infrastructures, environments, and geographies.
 
@@ -19,7 +19,7 @@ Oikos enables seamless workload deployment across distributed computing resource
 
 
 
-### **2. Platus**  
+### **2. NIFE COST**  
 **Navigating Your Deployment Budgets with Precision**  
 Platus offers in-depth insights into cloud infrastructure, empowering businesses to manage costs and optimize their resources effectively.
 
@@ -29,20 +29,19 @@ Platus offers in-depth insights into cloud infrastructure, empowering businesses
 
 
 
-
-### **3. SyncDrive**  
+### **3. NIFE SYNC**  
 **Syncing Innovation**  
 SyncDrive allows rapid synchronization between local and cloud environments, ensuring efficiency and data consistency.
 
 
 
-### **4. Zeke**  
+### **4. NIFE KERNEL**  
 **The Future of Connectivity**  
 Standalone tools that extend the capabilities of Oikos, designed to enhance application performance and scalability.
 
 
 
-### **5. Nyx 6G**  
+### **5. NIFE EDGE**  
 **Next-Gen Communication**  
 Nyx 6G delivers ultra-fast data speeds and redefines connectivity for modern applications.
 
