@@ -110,7 +110,7 @@ A lightweight file hosting tool that allows developers and teams to quickly uplo
 -  Lightweight and fast access
 -  No complex setup required
 
- [Explore Free Tools](https://filehost.nife.io)
+ [Learn More About NIFE Filehost](https://filehost.nife.io)
 
 --- 
 
@@ -125,7 +125,7 @@ A powerful playground for developers to experiment with Large Language Models, p
 -  API integration helpers
 -  Debugging and response analysis utilities
 
- [Explore Free Tools](https://llmlabs.nife.io/)
+ [Learn More About NIFE LLM Labs](https://llmlabs.nife.io/)
 
 
 ---
