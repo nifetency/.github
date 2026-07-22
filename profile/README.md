@@ -143,7 +143,7 @@ A powerful playground for developers to experiment with Large Language Models, p
 
 ---
 
-### **9. NIFE AI SRE**
+### **9. NIFE AI SRE** (NERO)
 **AI-Powered Site Reliability Engineering**  
 An AI-driven SRE assistant that helps teams monitor systems, surface relevant context, and respond to incidents faster.
 
@@ -156,12 +156,7 @@ An AI-driven SRE assistant that helps teams monitor systems, surface relevant co
 
 ---
 
-### **10. NERO**
-**[Description pending — ask the team for details]**
-
----
-
-### **11. NIFE EDGE** with NYXC
+### **10. NIFE EDGE** with NYXC
 **Next-Gen Edge Computing Platform**  
 Edge computing platform for deploying applications at the network edge for ultra-low latency and superior performance.
 
