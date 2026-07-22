@@ -66,7 +66,20 @@ Advanced container orchestration and kernel-level optimization tool for enhanced
 
 ---
 
-### **4. NIFE OPENHUB** with OpenHub
+### **4. NIFE LB**
+**Intelligent Load Balancing & Traffic Management**  
+Advanced load balancing across your deployed applications and infrastructure, distributing traffic intelligently to maximize uptime and performance.
+
+**Key Features:**
+-  Intelligent traffic distribution across regions and clusters
+-  Health-check based routing
+-  Integration with Nife Deploy for zero-config load balancing
+
+ [Learn More About NIFE LB](https://nife.io)
+
+---
+
+### **5. NIFE OPENHUB** with OpenHub
 **Open Source Collaboration Platform**  
 Collaborative open-source ecosystem hub for sharing, discovering, and contributing to innovative open-source projects.
 
@@ -81,7 +94,7 @@ Collaborative open-source ecosystem hub for sharing, discovering, and contributi
 
 ---
 
-### **5. NIFE Free Tools**
+### **6. NIFE Free Tools**
 **Essential Developer Tools**  
 A comprehensive collection of free tools and utilities designed for developers and teams to ship fast and efficiently.
 
@@ -99,7 +112,7 @@ A comprehensive collection of free tools and utilities designed for developers a
 
  ---
 
-### **6. NIFE FileHost Tool**
+### **7. NIFE FileHost Tool**
 **Simple & Fast File Hosting**  
 A lightweight file hosting tool that allows developers and teams to quickly upload, store, and share files with secure, shareable links.
 
@@ -114,7 +127,7 @@ A lightweight file hosting tool that allows developers and teams to quickly uplo
 
 --- 
 
-### **7. NIFE LLM Labs**
+### **8. NIFE LLM Labs**
 **Build, Test & Experiment with AI Models**  
 A powerful playground for developers to experiment with Large Language Models, prototype AI features, and accelerate intelligent application development.
 
@@ -130,7 +143,25 @@ A powerful playground for developers to experiment with Large Language Models, p
 
 ---
 
-### **6. NIFE EDGE** with NYXC
+### **9. NIFE AI SRE**
+**AI-Powered Site Reliability Engineering**  
+An AI-driven SRE assistant that helps teams monitor systems, surface relevant context, and respond to incidents faster.
+
+**Key Features:**
+-  AI-assisted incident triage and diagnosis
+-  Contextual knowledge retrieval for on-call teams
+-  Integration with existing monitoring and alerting
+
+ [Learn More About NIFE AI SRE](https://nife.io)
+
+---
+
+### **10. NERO**
+**[Description pending — ask the team for details]**
+
+---
+
+### **11. NIFE EDGE** with NYXC
 **Next-Gen Edge Computing Platform**  
 Edge computing platform for deploying applications at the network edge for ultra-low latency and superior performance.
 
