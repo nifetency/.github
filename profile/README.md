@@ -36,7 +36,7 @@ Oikos enables seamless workload deployment across distributed computing resource
 **Navigating Your Deployment Budgets with Precision**  
 Platus offers in-depth insights into cloud infrastructure, empowering businesses to manage costs and optimize their resources effectively.
 
-![NIFE COST Dashboard](https://nife.io/static/media/finops-dash.0b51e9dcd1aab3ad4f17.png)
+![NIFE COST Dashboard](https://files.nife.io/980/4806ff07f2fe6190_cost.png)
 
 **Key Features:**
 -  Multi-cloud cost tracking and analytics
@@ -47,8 +47,8 @@ Platus offers in-depth insights into cloud infrastructure, empowering businesses
 -  Reserved instance management
 -  Compliance tracking and reporting
 
- [Learn More About NIFE COST](https://nife.io/platus)  
- [Platus Dashboard](https://platus.clb2.nifetency.com/)
+ [Learn More About NIFE COST](https://nife.io/nife-cost)  
+ [Platus Dashboard](https://cost.nife.io/)
 
 ---
 
